@@ -29,6 +29,11 @@ attiny.menu.cpu.attiny84.upload.maximum_size=8192
 attiny.menu.cpu.attiny84.build.mcu=attiny84
 attiny.menu.cpu.attiny84.build.variant=tiny14
 
+attiny.menu.cpu.attiny2313=ATtiny2313
+attiny.menu.cpu.attiny2313.upload.maximum_size=2048
+attiny.menu.cpu.attiny2313.build.mcu=attiny2313
+attiny.menu.cpu.attiny2313.build.variant=tiny20x13
+
 attiny.menu.clock.internal1=1 MHz (internal)
 attiny.menu.clock.internal1.bootloader.low_fuses=0x62
 attiny.menu.clock.internal1.bootloader.high_fuses=0xdf
